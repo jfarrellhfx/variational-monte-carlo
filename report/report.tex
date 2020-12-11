@@ -1,0 +1,59 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{physics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[colorlinks]{hyperref}
+\usepackage{subcaption}
+\usepackage{babel}
+% \captionsetup{font=footnotesize}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage[export]{adjustbox}
+\usepackage{floatrow}
+\usepackage{listings}
+\newcommand{\otoprule}{\midrule[\heavyrulewidth]}
+\usepackage{libertine}
+\usepackage[T1]{fontenc}
+\usepackage[libertine]{newtxmath}
+\renewcommand{\d}{\mathrm{d}}
+\newcommand{\e}{\mathrm{e}}
+\renewcommand{\i}{\mathrm{i}}
+\usepackage{pythonhighlight}
+\usepackage{amsthm}
+\numberwithin{equation}{section}
+\title{Variational Monte Carlo Methods}
+\author{Jack H. Farrell \\ 1003978840}
+\date{}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+Testing the font and the margins is what I am doing right now... but I really need to get started on actually doing some work and some problems!
+
+\section{Method}
+\subsection{The Variational Principle}
+Consider a quantum system defined by a hamiltonian $H$, and assume there is a unique ground state with energy $E_0$.  Then, the variational principle from quantum mechanics says:
+\begin{equation}
+    \label{eq:variational_principle}
+    \frac{\bra\psi H \ket\psi}{\braket{\psi}{\psi}} \geq E_0,
+\end{equation}
+for any state $\ket\psi$, which does \textit{not} need to be normalized.  In other words, the average energy in any state (the expectation value of the Hamiltonian) must be larger than the ground state energy $E_0$.  The statement can certainly be proved, but it makes sense given that the ground state is defined as the state of lowest energy.
+
+The Variational Principle is a powerful tool for estimating the ground state energy and state vector, $E_0$ and $\ket{\psi_0}$, of a quantum system that can not be solved exactly. To do so, we first decide on a \textit{trial wave function} that has some particular form and depends on some parameter(s).  For example, in one dimension with one paramter, we could have $\psi_\alpha(x) = \e ^{-\alpha x}$. In that case, we would be picking a trial wave function of the form of an exponential and treating the decay width as a parameter $\alpha$. Then, according to Eq.~(\ref{eq:variational_principle}), and defining $E[\ket\psi] \equiv \bra\psi H \ket\psi / \braket{\psi}{\psi}$, we have:
+\begin{equation}
+    E[\ket{\psi_\alpha}] \equiv \frac{\bra{\psi_\alpha} H \ket{\psi_\alpha}}{\braket{\psi_\alpha}{\psi_\alpha}} \geq E_0.
+\end{equation}
+The value here will be different for each value of $\alpha$.  To get the best estimate of the ground state, then, which will be the closest upper bound to $E_0$, we need to minimize $E[\psi_\alpha]$ with respect to the parameter $\alpha$.  In the case of the exponential trial wave function, we will then be able to find the ``best estimate of the ground state for all wave functions that are exponentials.
+
+Of course, the accuracy of the estimate depends strongly on how sensible the form of the trial wave function was.  That means, when we get to solving problems, we should work to create physically reasonable trial wave functions.
+
+\subsection{Variational Monte Carlo}
+In some simple cases, the minimization described in the last section can be performed analytically: once one computes the matrix elements and has an estimate for the energy $E(\alpha)$ as a function of $\alpha$, all that is left os to compute the derivative $\dv{E(\alpha)}{\alpha}$ and set it equal to $0$, a normal minimization problem.  In other situations, though, especially in many-particle situations when the matrix elements depend on integrals over spaces of large dimension, just 
+
+
+
+
+\end{document}
