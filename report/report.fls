@@ -296,6 +296,8 @@ INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nt
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT report.toc
+INPUT report.toc
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1.tfm
@@ -327,6 +329,7 @@ INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nt
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxexa.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxexa.tfm
+OUTPUT report.toc
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
@@ -335,21 +338,53 @@ INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
-INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
-INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmi.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmi.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmi7.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsy.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsy.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsy7.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/nxlbmia.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexa.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexa.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/ntxbexa.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/nxlmi.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/LibertineMathMI.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/NewTXMI.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/stxscr.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-ot1.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTB-tlf-t1--base.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/ntxsy.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txsys.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txex-bar.tfm
-INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf
-INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/nxlbmi.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/LibertineMathBMI.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/NewTXBMI.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/nxlmi.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/LibertineMathMI.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/NewTXMI.tfm
@@ -363,21 +398,75 @@ INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertin
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/ntxsy.vf
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txsys.tfm
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txex-bar.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/ntxexx.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txexs.tfm
+INPUT ../scripts/sho.pdf
+INPUT ../scripts/sho.pdf
+INPUT ../scripts/sho.pdf
+INPUT ../scripts/sho.pdf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-ot1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-ot1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/ntxbsy.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txbsys.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/txbex-bar.tfm
+INPUT ../scripts/hydrogen_atom.pdf
+INPUT ../scripts/hydrogen_atom.pdf
+INPUT ../scripts/hydrogen_atom.pdf
+INPUT ../scripts/hydrogen_atom.pdf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/newtx/nxlmi7.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/LibertineMathMI7.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/NewTXMI7.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/newtx/stxscr.tfm
+INPUT ../scripts/hydrogen_molecule1.pdf
+INPUT ../scripts/hydrogen_molecule1.pdf
+INPUT ../scripts/hydrogen_molecule1.pdf
+INPUT ../scripts/hydrogen_molecule1.pdf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTZ-tlf-ot1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineT-tlf-t1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineT-tlf-t1--base.tfm
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/vf/public/libertine/LinLibertineTZ-tlf-ot1.vf
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/libertine/LinLibertineTZ-tlf-ot1--base.tfm
+INPUT report.bbl
+INPUT report.bbl
 INPUT report.aux
 INPUT ./report.out
 INPUT ./report.out
-INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_fygcup.enc
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathBMI.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathBMI.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI7.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathMI7.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathRM.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/LibertineMathRM.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTZ.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTZ.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/NewTXMI.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/NewTXMI.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txbsys.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txbsys.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txexs.pfb
+INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txexs.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txmiaX.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txmiaX.pfb
 INPUT C:/Users/jfarr/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb

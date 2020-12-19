@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{jensen}
+Morten Hjorth-Jensen.
+\newblock Variational monte carlo methods,
+  http://compphysics.github.io/computationalphysics2/doc/pub/vmc/html/vmc-bs.html,
+  2020.
+
+\bibitem{Jensen2}
+Morten Hjorth-Jensen.
+\newblock Variational monte carlo methods,"
+  https://www.asc.ohio-state.edu/physics/ntg/6810/readings/hjorth-jensen_notes2013_14.pdf"l,
+  2020.
+
+\bibitem{newman_2013}
+Mark E.~J. Newman.
+\newblock {\em Computational physics}.
+\newblock Createspace, 2013.
+
+\bibitem{shankar_2014}
+Ramamurti Shankar.
+\newblock {\em Principles of quantum mechanics}.
+\newblock Springer, 2014.
+
+\bibitem{sorella_2013}
+S.~Sorella.
+\newblock Monte carlo methods and markov chains for computational physicists.
+\newblock In {\em Strongly Correlated Systems}. Springer, 2013.
+
+\end{thebibliography}
